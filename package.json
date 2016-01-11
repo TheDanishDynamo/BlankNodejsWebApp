@@ -1,0 +1,10 @@
+{
+  "name": "BlankNodejsWebApp",
+  "version": "0.0.0",
+  "description": "BlankNodejsWebApp",
+  "main": "server.js",
+  "author": {
+    "name": "tom.nielsen",
+    "email": ""
+  }
+}
